@@ -1,5 +1,44 @@
-# enterprise-security-lab (Active Directory & Network Simulation)
-## Overview
-This project demonstrates the design and security assessment of a simulated enterprise network environment.
+# Web Application Security Lab (GNS3 + OWASP)
 
-The lab focuses on understanding how enterprise infrastructure operates and how security weaknesses can be identified and mitigated through controlled testing.
+## Overview
+This project demonstrates the setup and testing of a simulated enterprise network used for web application security testing.
+
+The lab includes:
+- GNS3 network simulation
+- Windows Server 2016
+- Kali Linux attacker machine
+- OWASP Broken Web Applications
+
+## Skills Demonstrated
+- Virtual lab design
+- Network configuration
+- DHCP configuration
+- Web application penetration testing concepts
+- SQL Injection testing
+- Brute force authentication attacks
+- Password recovery techniques
+
+## Lab Architecture
+See `/architecture` folder.
+
+## Lab Setup
+Step-by-step setup documented in `/setup`.
+
+## Security Tests Performed
+- Brute Force Attack
+- SQL Injection
+- Database Enumeration
+- Password Hash Manipulation
+
+## Tools Used
+- Kali Linux
+- Burp Suite Community Edition
+- SQLMap
+- GNS3
+- OWASP Broken Web Apps
+- chntpw
+
+## Disclaimer
+This project was conducted in an isolated lab environment for educational purposes only.
+## Disclaimer
+This project was conducted in an isolated lab environment for educational purposes only.
