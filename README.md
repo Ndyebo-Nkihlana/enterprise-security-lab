@@ -1,2 +1,5 @@
-# enterprise-security-lab
-Simulated enterprise network security testing lab using GNS3, Kali Linux, Active Directory, and offensive security tools for vulnerability testing
+# enterprise-security-lab (Active Directory & Network Simulation)
+## Overview
+This project demonstrates the design and security assessment of a simulated enterprise network environment.
+
+The lab focuses on understanding how enterprise infrastructure operates and how security weaknesses can be identified and mitigated through controlled testing.
