@@ -40,5 +40,3 @@ Step-by-step setup documented in `/setup`.
 
 ## Disclaimer
 This project was conducted in an isolated lab environment for educational purposes only.
-## Disclaimer
-This project was conducted in an isolated lab environment for educational purposes only.
