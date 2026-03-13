@@ -38,9 +38,6 @@ Step-by-step setup documented in `/setup`.
 - OWASP Broken Web Apps
 - chntpw
 
-## Lab Environment
-
-![Lab Screenshot](screenshots/1.png)
 ## Disclaimer
 This project was conducted in an isolated lab environment for educational purposes only.
 
